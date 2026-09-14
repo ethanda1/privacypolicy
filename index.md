@@ -4,7 +4,7 @@
 
 ## Overview
 
-CoTake ("we", "us", "our", or "the App") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+Cotimo ("we", "us", "our", or "the App") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
 ## Information We Collect
 
@@ -67,4 +67,4 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 
 ## Contact
 
-If you have questions about this Privacy Policy, please contact us at cotakeapp@gmail.com
+If you have questions about this Privacy Policy, please contact us at support@cotimoapp.com
